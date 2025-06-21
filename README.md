@@ -3,7 +3,7 @@ Multiple Disease Prediction System using Machine Learning
 A unified Streamlit-based web application for predicting -- Diabetes, Heart Disease, Parkinson's Disease, and Breast Cancer -- using trained machine learning models. Enhanced with a Symptom Checker Chatbot and Database Logging for real-time use cases like clinics and remote diagnostics.
 
 Features
-
+ 
 ✅ Predicts 4 major diseases using ML
 ✅ Easy-to-use web interface (Streamlit)
 ✅ Unified layout for seamless disease selection
